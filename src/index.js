@@ -1,6 +1,4 @@
 // Entry point for the build script in your package.json
-import "@hotwired/turbo-rails";
-import "./controllers";
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
 import ReactDOM from "react-dom";

@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { getAllGreets, fetchGeetingAsyncThank } from "../redux/reducer";
+import { getAllGreets, fetchGeetingAsyncThank } from "./redux/reducer";
 
 function Greeting() {
     const greetList = useSelector(getAllGreets);
