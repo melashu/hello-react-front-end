@@ -11,7 +11,7 @@ const fetchGeetingAsyncThank = createAsyncThunk(
 );
 
 const initialState = {
-  greets: [],
+  greet: '',
 };
 
 const greetReducer = createSlice({
@@ -19,11 +19,11 @@ const greetReducer = createSlice({
   initialState,
   extraReducers: (builder) => {
     builder.addCase(fetchGeetingAsyncThank.fulfilled, (state, { payload }) => {
-      state.greets = payload;
+      state.greet = payload;
     });
   },
 });
 
-const getAllGreets = (state) => state.greet.greets;
-export { getAllGreets, fetchGeetingAsyncThank };
+const getGreet = (state) => state.greet.greet;
+export { getGreet, fetchGeetingAsyncThank };
 export default greetReducer.reducer;
