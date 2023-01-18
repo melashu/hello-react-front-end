@@ -1,13 +1,11 @@
 # Hello-react-front-end
 
 <a name="readme-top"></a>
-<div align="center">
-  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-</div>
+
 
 # 📗 Table of Contents
 
-- [ello-react-front-end](#ello-react-front-end)
+- [Hello-react-front-end](#hello-react-front-end)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Hello-react-front-end ](#-hello-react-front-end-)
   - [🛠 Built With ](#-built-with-)
