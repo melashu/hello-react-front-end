@@ -1,4 +1,4 @@
-# hello-react-front-end
+# Hello-react-front-end
 
 <a name="readme-top"></a>
 <div align="center">
@@ -7,9 +7,9 @@
 
 # 📗 Table of Contents
 
-- [hello-react-front-end](#hello-react-front-end)
+- [ello-react-front-end](#ello-react-front-end)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 hello-react-front-end ](#-hello-react-front-end-)
+- [📖 Hello-react-front-end ](#-hello-react-front-end-)
   - [🛠 Built With ](#-built-with-)
   - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
@@ -18,25 +18,23 @@
     - [Setup](#setup)
     - [Usage](#usage)
   - [👥 Authors ](#-authors-)
+  - [FUTURE FEATURES](#future-features)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 hello-react-front-end <a name="about-project"></a>
+# 📖 Hello-react-front-end <a name="about-project"></a>
 
-This is a demo project to setup rails with react freamwork. 
+This is a demo project to setup react freamwork. 
 
+[My backend API](https://github.com/melashu/hello-rails-back-end)
 ## 🛠 Built With <a name="built-with"></a>
 
 - React
-
+- JS
 
 ## Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-
 
 <details>
   <summary>Server</summary>
@@ -86,8 +84,10 @@ To run the project, execute the following command:
 - Twitter: [@meshu102](https://twitter.com/meshu102)
 - LinkedIn: [Melashu Amare](https://www.linkedin.com/in/melashu-amare/)
 
-<!-- FUTURE FEATURES -->
-
+## FUTURE FEATURES
+In the future I want to add the following features
+- I want to use material UI.
+- I want to use more advanced hooks.
 
 ## 🤝 Contributing <a name="contributing"></a>
 

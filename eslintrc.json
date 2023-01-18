@@ -4,6 +4,7 @@
         "es6": true,
         "jest": true
     },
+    "root": true,
     "parser": "@babel/eslint-parser",
     "parserOptions": {
         "ecmaFeatures": {
